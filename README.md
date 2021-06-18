@@ -1,1 +1,2 @@
-# colourfull-trex
+# trex_colour
+trex colourfull game
